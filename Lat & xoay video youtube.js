@@ -6,7 +6,7 @@
 // @description     Plugin Xoay video cho Youtube.
 // @description:en  Rotate video plugin for Youtube.
 // @namespace       https://github.com/longhai/userscript
-// @match           https://www.youtube.com/watch?v=*
+// @match           *.youtube.com/watch?v=*
 // @grant           none
 // ==/UserScript==
 
